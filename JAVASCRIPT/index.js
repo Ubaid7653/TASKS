@@ -1,0 +1,1 @@
+console.log("ubaid" +23 );
